@@ -21,6 +21,6 @@
   <img 
     alt="GitHub Stats" 
     style="width: 90%; max-width: 600px; height: auto; margin-top: 20px;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=appilivamsikrishna&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=appilivamsikrishna&theme=radical&hide_border=true" 
   />
 </p>
